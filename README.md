@@ -49,7 +49,7 @@ This project aim is to build the ETL pipeline by performing the following action
 
 Below a summup of the ETL process:
 
-inputs                     | Extraction  | Load data
-----------------------------------------------------------------------------------
+inputs       | Extraction  | Load data
+--|--|--
 songs & logs files | `etl.py`        | EMR
 ----------------------------------------------------------------------------------
